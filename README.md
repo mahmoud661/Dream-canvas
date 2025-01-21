@@ -2,7 +2,7 @@
 
 Dream Canvas is a **React + Vite** project that allows users to generate AI-generated images based on prompts and customizable options. It connects to an AI image generation API to bring users' imaginations to life.
 
-![localhost_5173_](https://github.com/user-attachments/assets/eddf086e-6c8e-410b-a719-4cfb8dae4fd7)
+![localhost_5173_](https://github.com/user-attachments/assets/7f6967cf-3a73-4388-9463-830158abcffc)
 
 
 ## Features
